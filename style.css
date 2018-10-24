@@ -76,8 +76,15 @@ nav:first-child {
  	margin-top:8px;
  	margin-top:5px;
  }
+.work{
+position:relative;
+float:left;
+width:274px;
+margin:20px 0 25px;
+overflow:auto; 
+}
 
- footer {
+footer {
  	padding: 30px 0;
  	clear: both;
  	font-size: 12px;
