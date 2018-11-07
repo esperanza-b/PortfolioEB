@@ -1,7 +1,7 @@
 body{
 
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
+	font-size: 20px;
 	line-height: 34px
 	color:purple;
 }
@@ -22,7 +22,7 @@ h2
 h3 {
 	font-family:Georgia, 'Times New Roman', times, serif;
 	font-weight:700;
-	color:pink;
+	color:#a0c1f7;
 }
 
 h1{
@@ -180,8 +180,34 @@ border-bottom:;
  }
 
 /*Contact Page*/
+#contact-form ul{
+	margin-bottom:20px; 
+}
+#contact-form li{
+	margin-bottom: 10px;
+}
+ label
+ input[type=text]
+input [type=text]
+textarea{
+	height: 35px;
+	padding:0 10px;
+	font-size:14px;
+	border:1px solid green;
+}
+textarea{
+	height:200px;
 
+}
+input [type=submit]{
+	padding:10px 30px;
+	font-size:18px;
+	color:green;
+	cursor:pointer;
+	background:brown;
+	border:0 none;
 
+}
 /*footer*/
 footer {
  	padding: 30px 0;
