@@ -1,7 +1,7 @@
 body{
 
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 20px;
+	font-size: 15px;
 	line-height: 34px
 	color:purple;
 }
@@ -29,7 +29,7 @@ h1{
 padding-bottom: 20px;
 font-size:30px ;
 line-height: 49px;
-border-bottom: 3px solid green;
+border-bottom: 3px solid gray;
 
 }
  h2
@@ -62,10 +62,23 @@ border-bottom: 3px solid green;
    background:#6782af;
    border-bottom: 2px solid #ccc;
 }
+#nameArt{
+	float:left;
+	width:250px;
+	height:90px;
+	font-family:Georgia, 'Times New Roman', times, serif;
+    font-size:30px;
+    font-weight:700;
+    line-height:90px;
+    color:purple;
+    text-align:center;
+    text-decoration:none;
+    background-color:#4da3d6;
+}
 
 .container a{
 	text-decoration: none;
-	color:orange;
+	color:#35414c;
 
 }
 
@@ -124,15 +137,15 @@ nav:first-child {
  	max-width: 270px;
  	padding: 30px;
  	margin-bottom: 20px;
- 	background: yellow;
- 	border: 1px solid yellow;
+ 	background: #72b4db;
+ 	border: 1px solid #72b4db;
  }
 
  h3, .sidebar h2 {
  	padding-bottom:20px;
  	margin-bottom:15px;
  	line-height:22px;
- 	border-bottom: 2px solid yellow;
+ 	border-bottom: 2px solid #55626d;
  }
  .social {
  	width:62px;
@@ -193,7 +206,7 @@ textarea{
 	height: 35px;
 	padding:0 10px;
 	font-size:14px;
-	border:1px solid green;
+	border:1px solid #2e4047;
 }
 textarea{
 	height:200px;
@@ -204,7 +217,7 @@ input [type=submit]{
 	font-size:18px;
 	color:green;
 	cursor:pointer;
-	background:brown;
+	background:#90cbcc;
 	border:0 none;
 
 }
@@ -213,9 +226,9 @@ footer {
  	padding: 30px 0;
  	clear: both;
  	font-size: 12px;
- 	color: yellow;
+ 	color:#97c6bb;
  	text-align: center;
  	background: black;
- 	border-top: 8px solid red;
+ 	border-top: 8px solid #78b1e2;
 
  }
